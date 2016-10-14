@@ -1,5 +1,5 @@
 # lowerRetextering
-A project to make a lower resolution version of Minecraft mods' textures which have high resolution textures by default.
+A project to make a lower resolution version of Minecraft mods' textures which have high resolution textures by default bit keeping their original style if possible.
 
 Use issue system to suggest other mods for retexturing and pull requsts in case you have good textures to suggest.
 
